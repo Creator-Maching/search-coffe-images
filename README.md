@@ -55,7 +55,7 @@ O projeto foi criado com o objetivo de praticar conceitos fundamentais de fronte
 git clone https://github.com/Creator-Maching/search-coffe-images.git
 
 # entre na pasta
-cd search-coffe-images
+cd lista
 
 # instale as dependências
 npm install
